@@ -51,6 +51,7 @@ endmodule
 ![398050237-5655f823-98ae-4540-abee-874651eac3da](https://github.com/user-attachments/assets/5ccbaae4-c507-4984-8359-bc7ff3683125)
 
 **Output:**
+
 **Timing Diagram** 
 ![398050467-d60690e2-a159-4c73-98c9-045d505f7da3](https://github.com/user-attachments/assets/45272ba4-d5fb-43f7-b147-a7f0955d09f2)
 
